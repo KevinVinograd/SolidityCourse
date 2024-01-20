@@ -12,6 +12,9 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
 
-
+npx webpack
 npx hardhat run scripts/deployHelloWorld.ts --network localhost
 npx hardhat compile
+python3 -m http.server 6969
+python3 -m http.server 6969
+
